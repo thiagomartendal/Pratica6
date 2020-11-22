@@ -65,7 +65,7 @@
 				<bindParam name="keyCode" value="RED"/>
 			</bind>
 			<bind role="stop" component="pagina3"/>
-			<bind role="start" component="video1"/>
+			<bind role="start" component="interativo"/>
 		</link>
 	</body>
 </ncl>
